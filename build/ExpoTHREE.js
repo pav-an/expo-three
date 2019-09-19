@@ -1,4 +1,4 @@
-import '@expo/browser-polyfill';
+// import '@expo/browser-polyfill';
 import './Three';
 import * as utils from './utils';
 import Renderer from './Renderer';
